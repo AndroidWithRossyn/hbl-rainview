@@ -3,8 +3,8 @@
 </p>
 
       
- [![](https://jitpack.io/v/banrossyn/hbl-rainview.svg)](https://jitpack.io/#banrossyn/hbl-rainview)
-![GitHub](https://img.shields.io/github/license/banrossyn/hbl-rainview)
+ [![](https://jitpack.io/v/OmaPrakash/hbl-rainview.svg)](https://jitpack.io/#OmaPrakash/hbl-rainview)
+![GitHub](https://img.shields.io/github/license/OmaPrakash/hbl-rainview)
 
 
 
@@ -55,7 +55,7 @@ Then, add the library to your module `build.gradle`
 
 ```gradle
 dependencies {
-    implementation 'com.github.banrossyn:hbl-rainview:{latest_version}'
+    implementation 'com.github.OmaPrakash:hbl-rainview:{latest_version}'
     //You must use percentlayout Dependency
     implementation 'androidx.percentlayout:percentlayout:1.0.0'
 }
